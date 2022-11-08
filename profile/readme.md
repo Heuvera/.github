@@ -1,6 +1,5 @@
 # Heuvera
-
-<img src="heuvera.png" width="100%">
+<img src="heuvera.png" width="100%" alt="heuvera">
 
 Hello there and welcome to Heuvera's official Github repository. Here we build in-house and share some of the cool tools, libraries we use in house to give back to the community. Including our SDKS and APIs!
 
@@ -18,7 +17,7 @@ Hello there and welcome to Heuvera's official Github repository. Here we build i
 
 <a href="https://developer.heuvera.com">6. Open Source: Giving Back</a>
 
-<a href="https://developer.heuvera.com">7. Nerd Blogg</a>
+<a href="https://developer.heuvera.com">7. Nerd Newsroom</a>
 
 # Contact
 
